@@ -1,7 +1,7 @@
 
 ### Question 1(a) ####
 # loading the dataset in r
-dataframe <- read.csv("E:/puchu/data_analytics_lab/assignment_2/Dataset.csv")
+dataframe <- read.csv("C:\Users\sangeeta\Downloads")
 # to view the dataset
 View(dataframe)
 
