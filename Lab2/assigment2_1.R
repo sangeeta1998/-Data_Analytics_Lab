@@ -1,7 +1,7 @@
 
 ### Question 1(a) ####
 # loading the dataset in r
-dataframe <- read.csv("C:\Users\sangeeta\Downloads")
+dataframe <- read.csv("C:\Users\sangeeta\Downloads\dataset.csv")
 # to view the dataset
 View(dataframe)
 
