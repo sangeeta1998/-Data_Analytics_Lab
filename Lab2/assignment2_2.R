@@ -1,7 +1,7 @@
 
 ### Question 2(a)
 # loading iris dataset
-df <- read.csv("E:/puchu/data_analytics_lab/assignment_2/Iris.csv")
+df <- read.csv("C:\Users\sangeeta\Downloads\Iris.csv")
 View(df)
 
 ### Question 2(b)
